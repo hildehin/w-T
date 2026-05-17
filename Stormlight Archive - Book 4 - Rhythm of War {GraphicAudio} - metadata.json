@@ -1,0 +1,948 @@
+{
+  "tags": [],
+  "chapters": [
+    {
+      "id": 0,
+      "start": 0,
+      "end": 52,
+      "title": "Intro Part 1"
+    },
+    {
+      "id": 1,
+      "start": 52,
+      "end": 1652,
+      "title": "Prologue: To Pretend"
+    },
+    {
+      "id": 2,
+      "start": 1652,
+      "end": 2928,
+      "title": "Chapter 1: Calluses"
+    },
+    {
+      "id": 3,
+      "start": 2928,
+      "end": 4945,
+      "title": "Chapter 2: Severed Cords"
+    },
+    {
+      "id": 4,
+      "start": 4945,
+      "end": 6362,
+      "title": "Chapter 3: The Fourth Bridge"
+    },
+    {
+      "id": 5,
+      "start": 6362,
+      "end": 7124,
+      "title": "Chapter 4: Architects of the Future"
+    },
+    {
+      "id": 6,
+      "start": 7124,
+      "end": 8844,
+      "title": "Chapter 5: Broken Spears"
+    },
+    {
+      "id": 7,
+      "start": 8844,
+      "end": 10608,
+      "title": "Chapter 6: A Loose Thread"
+    },
+    {
+      "id": 8,
+      "start": 10608,
+      "end": 12359,
+      "title": "Chapter 7: The Rarest Vintage"
+    },
+    {
+      "id": 9,
+      "start": 12359,
+      "end": 13682,
+      "title": "Chapter 8: Surrender"
+    },
+    {
+      "id": 10,
+      "start": 13682,
+      "end": 15803,
+      "title": "Chapter 9: Contradictions"
+    },
+    {
+      "id": 11,
+      "start": 15803,
+      "end": 17046,
+      "title": "Chapter 10: A Single Casualty"
+    },
+    {
+      "id": 12,
+      "start": 17046,
+      "end": 18716,
+      "title": "Chapter 11: Passion and Courage"
+    },
+    {
+      "id": 13,
+      "start": 18716,
+      "end": 20551,
+      "title": "Chapter 12: A Way To Help"
+    },
+    {
+      "id": 14,
+      "start": 20551,
+      "end": 22911,
+      "title": "Chapter 13: Another Hunt"
+    },
+    {
+      "id": 15,
+      "start": 22911,
+      "end": 25394,
+      "title": "Chapter 14: Voice"
+    },
+    {
+      "id": 16,
+      "start": 25394,
+      "end": 25670,
+      "title": "Outro Part 1"
+    },
+    {
+      "id": 17,
+      "start": 25670,
+      "end": 25702,
+      "title": "Intro Part 2"
+    },
+    {
+      "id": 18,
+      "start": 25702,
+      "end": 27937,
+      "title": "Chapter 15: The Light and the Music"
+    },
+    {
+      "id": 19,
+      "start": 27937,
+      "end": 29675,
+      "title": "Chapter 16: An Unknown Song"
+    },
+    {
+      "id": 20,
+      "start": 29675,
+      "end": 31512,
+      "title": "Chapter 17: A Proposal"
+    },
+    {
+      "id": 21,
+      "start": 31512,
+      "end": 32633,
+      "title": "Chapter 18: Surgeon"
+    },
+    {
+      "id": 22,
+      "start": 32633,
+      "end": 35416,
+      "title": "Chapter 19: Garnets"
+    },
+    {
+      "id": 23,
+      "start": 35416,
+      "end": 36385,
+      "title": "Interludes I-1: Sylphrena"
+    },
+    {
+      "id": 24,
+      "start": 36385,
+      "end": 36927,
+      "title": "Interludes I-2: Sja-Anat"
+    },
+    {
+      "id": 25,
+      "start": 36927,
+      "end": 37610,
+      "title": "Interludes I-3: Into the Fire"
+    },
+    {
+      "id": 26,
+      "start": 37610,
+      "end": 38791,
+      "title": "Chapter 20: The Unseen Court"
+    },
+    {
+      "id": 27,
+      "start": 38791,
+      "end": 40837,
+      "title": "Chapter 21: The Seething Knot"
+    },
+    {
+      "id": 28,
+      "start": 40837,
+      "end": 42391,
+      "title": "Chapter 22: No Use Talking"
+    },
+    {
+      "id": 29,
+      "start": 42391,
+      "end": 43182,
+      "title": "Chapter 23: Binding Wounds"
+    },
+    {
+      "id": 30,
+      "start": 43182,
+      "end": 44108,
+      "title": "Chapter 24: Full of Awe"
+    },
+    {
+      "id": 31,
+      "start": 44108,
+      "end": 45253,
+      "title": "Chapter 25: Devotary of Mercy"
+    },
+    {
+      "id": 32,
+      "start": 45253,
+      "end": 47731,
+      "title": "Chapter 26: A Little Espionage"
+    },
+    {
+      "id": 33,
+      "start": 47731,
+      "end": 49091,
+      "title": "Chapter 27: Banners"
+    },
+    {
+      "id": 34,
+      "start": 49091,
+      "end": 49663,
+      "title": "Chapter 28: Heresies"
+    },
+    {
+      "id": 35,
+      "start": 49663,
+      "end": 50138,
+      "title": "Part 2 - Outro"
+    },
+    {
+      "id": 36,
+      "start": 50138,
+      "end": 50170,
+      "title": "Part 3 - Intro"
+    },
+    {
+      "id": 37,
+      "start": 50170,
+      "end": 50215,
+      "title": "Shallan's Sketchbook: Ashspren"
+    },
+    {
+      "id": 38,
+      "start": 50215,
+      "end": 51705,
+      "title": "Chapter 29: A Cage Without Bars"
+    },
+    {
+      "id": 39,
+      "start": 51705,
+      "end": 53247,
+      "title": "Chapter 30: The Betrayal"
+    },
+    {
+      "id": 40,
+      "start": 53247,
+      "end": 54168,
+      "title": "Chapter 31: Daughter of Traitors"
+    },
+    {
+      "id": 41,
+      "start": 54168,
+      "end": 55117,
+      "title": "Chapter 32: Of Three Minds"
+    },
+    {
+      "id": 42,
+      "start": 55117,
+      "end": 55351,
+      "title": "Chapter 33: Understanding"
+    },
+    {
+      "id": 43,
+      "start": 55351,
+      "end": 57140,
+      "title": "Chapter 34: A Flame Never Extinguished"
+    },
+    {
+      "id": 44,
+      "start": 57140,
+      "end": 58477,
+      "title": "Chapter 35: The Strength of a Soldier"
+    },
+    {
+      "id": 45,
+      "start": 58477,
+      "end": 58552,
+      "title": "Shallan's Sketchbook: Honorspren"
+    },
+    {
+      "id": 46,
+      "start": 58552,
+      "end": 59970,
+      "title": "Chapter 36: The Price of Honor"
+    },
+    {
+      "id": 47,
+      "start": 59970,
+      "end": 61524,
+      "title": "Chapter 37: Silence From the Dead"
+    },
+    {
+      "id": 48,
+      "start": 61524,
+      "end": 62637,
+      "title": "Chapter 38: Rhythm of the Terrors"
+    },
+    {
+      "id": 49,
+      "start": 62637,
+      "end": 64332,
+      "title": "Chapter 39: Invasion"
+    },
+    {
+      "id": 50,
+      "start": 64332,
+      "end": 65222,
+      "title": "Chapter 40: In for All"
+    },
+    {
+      "id": 51,
+      "start": 65222,
+      "end": 65259,
+      "title": "Navani's Notebook: The Crystal Pillar Room"
+    },
+    {
+      "id": 52,
+      "start": 65259,
+      "end": 66517,
+      "title": "Chapter 41: The Most Dangerous"
+    },
+    {
+      "id": 53,
+      "start": 66517,
+      "end": 68758,
+      "title": "Chapter 42: Armor and Teeth"
+    },
+    {
+      "id": 54,
+      "start": 68758,
+      "end": 70071,
+      "title": "Chapter 43: Men and Monsters"
+    },
+    {
+      "id": 55,
+      "start": 70071,
+      "end": 70900,
+      "title": "Interludes: I-4: Vyre"
+    },
+    {
+      "id": 56,
+      "start": 70900,
+      "end": 70960,
+      "title": "Shallan's Sketchbook: Cultivationspren"
+    },
+    {
+      "id": 57,
+      "start": 70960,
+      "end": 72394,
+      "title": "Interludes: I-5: Lift"
+    },
+    {
+      "id": 58,
+      "start": 72394,
+      "end": 73720,
+      "title": "Interludes: I-6: A Boon and a Curse"
+    },
+    {
+      "id": 59,
+      "start": 73720,
+      "end": 74129,
+      "title": "Part 3: Outro"
+    },
+    {
+      "id": 60,
+      "start": 74129,
+      "end": 74159,
+      "title": "Part 4: Intro"
+    },
+    {
+      "id": 61,
+      "start": 74159,
+      "end": 74965,
+      "title": "Chapter 44: Tinder Waiting for the Spark"
+    },
+    {
+      "id": 62,
+      "start": 74965,
+      "end": 76088,
+      "title": "Chapter 45: A Bold Heart, A Keen and Crafty Mind"
+    },
+    {
+      "id": 63,
+      "start": 76088,
+      "end": 77564,
+      "title": "Chapter 46: The Weight of the Tower"
+    },
+    {
+      "id": 64,
+      "start": 77564,
+      "end": 78594,
+      "title": "Chapter 47: A Cage of Forced Spirits"
+    },
+    {
+      "id": 65,
+      "start": 78594,
+      "end": 79412,
+      "title": "Chapter 48: Scent of Death, Scent of Life"
+    },
+    {
+      "id": 66,
+      "start": 79412,
+      "end": 81482,
+      "title": "Chapter 49: Soul of Discovery"
+    },
+    {
+      "id": 67,
+      "start": 81482,
+      "end": 83232,
+      "title": "Chapter 50: Queen"
+    },
+    {
+      "id": 68,
+      "start": 83232,
+      "end": 83890,
+      "title": "Chapter 51: To Sing Hopeless Songs"
+    },
+    {
+      "id": 69,
+      "start": 83890,
+      "end": 84505,
+      "title": "Chapter 52: A Path Toward Saving"
+    },
+    {
+      "id": 70,
+      "start": 84505,
+      "end": 84574,
+      "title": "Shallan's Sketchbook: Reachers"
+    },
+    {
+      "id": 71,
+      "start": 84574,
+      "end": 85467,
+      "title": "Chapter 53: Compassion"
+    },
+    {
+      "id": 72,
+      "start": 85467,
+      "end": 86330,
+      "title": "Chapter 54: The Future Becomes Dust"
+    },
+    {
+      "id": 73,
+      "start": 86330,
+      "end": 87364,
+      "title": "Chapter 55: Kinship with the Open Sky"
+    },
+    {
+      "id": 74,
+      "start": 87364,
+      "end": 88247,
+      "title": "Chapter 56: Nodes"
+    },
+    {
+      "id": 75,
+      "start": 88247,
+      "end": 89267,
+      "title": "Chapter 57: Child of Odium"
+    },
+    {
+      "id": 76,
+      "start": 89267,
+      "end": 90142,
+      "title": "Chapter 58: Spanreeds"
+    },
+    {
+      "id": 77,
+      "start": 90142,
+      "end": 91675,
+      "title": "Chapter 59: The Lattice of a Growing Crystal"
+    },
+    {
+      "id": 78,
+      "start": 91675,
+      "end": 92953,
+      "title": "Chapter 60: Essai"
+    },
+    {
+      "id": 79,
+      "start": 92953,
+      "end": 94432,
+      "title": "Chapter 61: Oil and Water"
+    },
+    {
+      "id": 80,
+      "start": 94432,
+      "end": 95162,
+      "title": "Chapter 62: Keeper of Forms"
+    },
+    {
+      "id": 81,
+      "start": 95162,
+      "end": 96390,
+      "title": "Chapter 63: Practice"
+    },
+    {
+      "id": 82,
+      "start": 96390,
+      "end": 97919,
+      "title": "Chapter 64: Personal Reminder"
+    },
+    {
+      "id": 83,
+      "start": 97919,
+      "end": 98848,
+      "title": "Chapter 65: Hypothesis"
+    },
+    {
+      "id": 84,
+      "start": 98848,
+      "end": 100166,
+      "title": "Chapter 66: Bearer of Agonies"
+    },
+    {
+      "id": 85,
+      "start": 100166,
+      "end": 101008,
+      "title": "Chapter 67: Song of Stones"
+    },
+    {
+      "id": 86,
+      "start": 101008,
+      "end": 101320,
+      "title": "Chapter 68: One Family Part 1"
+    },
+    {
+      "id": 87,
+      "start": 101320,
+      "end": 101738,
+      "title": "Part 4: Outro"
+    },
+    {
+      "id": 88,
+      "start": 101738,
+      "end": 101770,
+      "title": "Part 5: Intro"
+    },
+    {
+      "id": 89,
+      "start": 101770,
+      "end": 102653,
+      "title": "Chapter 68: One Family Part 2"
+    },
+    {
+      "id": 90,
+      "start": 102653,
+      "end": 104140,
+      "title": "Chapter 69: Pure Tones of Roshar"
+    },
+    {
+      "id": 91,
+      "start": 104140,
+      "end": 106071,
+      "title": "Chapter 70: Well"
+    },
+    {
+      "id": 92,
+      "start": 106071,
+      "end": 107190,
+      "title": "Chapter 71: Rider of Storms"
+    },
+    {
+      "id": 93,
+      "start": 107190,
+      "end": 107502,
+      "title": "Chapter 72: Outmatched"
+    },
+    {
+      "id": 94,
+      "start": 107502,
+      "end": 108141,
+      "title": "Interludes: I-7: Szeth"
+    },
+    {
+      "id": 95,
+      "start": 108141,
+      "end": 108562,
+      "title": "Interludes: I-8: Chiri-Chiri"
+    },
+    {
+      "id": 96,
+      "start": 108562,
+      "end": 109152,
+      "title": "Interludes: I-9: The Sword"
+    },
+    {
+      "id": 97,
+      "start": 109152,
+      "end": 110044,
+      "title": "Chapter 73: Which Master To Follow"
+    },
+    {
+      "id": 98,
+      "start": 110044,
+      "end": 110828,
+      "title": "Chapter 74: A Symbol"
+    },
+    {
+      "id": 99,
+      "start": 110828,
+      "end": 112506,
+      "title": "Chapter 75: The Middle Step"
+    },
+    {
+      "id": 100,
+      "start": 112506,
+      "end": 112549,
+      "title": "Shallan's Sketchbook: Peakspren"
+    },
+    {
+      "id": 101,
+      "start": 112549,
+      "end": 113970,
+      "title": "Chapter 76: Harmony"
+    },
+    {
+      "id": 102,
+      "start": 113970,
+      "end": 115430,
+      "title": "Chapter 77: The Proper Legality"
+    },
+    {
+      "id": 103,
+      "start": 115430,
+      "end": 115472,
+      "title": "Shallan's Sketchbook: Inkspren"
+    },
+    {
+      "id": 104,
+      "start": 115472,
+      "end": 116796,
+      "title": "Chapter 78: The High Judge"
+    },
+    {
+      "id": 105,
+      "start": 116796,
+      "end": 117619,
+      "title": "Chapter 79: Open Wound"
+    },
+    {
+      "id": 106,
+      "start": 117619,
+      "end": 119617,
+      "title": "Chapter 80: The Dog and the Dragon"
+    },
+    {
+      "id": 107,
+      "start": 119617,
+      "end": 120272,
+      "title": "Chapter 81: Trapped"
+    },
+    {
+      "id": 108,
+      "start": 120272,
+      "end": 121256,
+      "title": "Chapter 82: Knife"
+    },
+    {
+      "id": 109,
+      "start": 121256,
+      "end": 122521,
+      "title": "Chapter 83: The Games of Men and Singers"
+    },
+    {
+      "id": 110,
+      "start": 122521,
+      "end": 122638,
+      "title": "Navani's Notebook: Dagger"
+    },
+    {
+      "id": 111,
+      "start": 122638,
+      "end": 123538,
+      "title": "Chapter 84: Scholar"
+    },
+    {
+      "id": 112,
+      "start": 123538,
+      "end": 124317,
+      "title": "Chapter 85: Dabbid"
+    },
+    {
+      "id": 113,
+      "start": 124317,
+      "end": 125370,
+      "title": "Chapter 86: The Song of Mornings"
+    },
+    {
+      "id": 114,
+      "start": 125370,
+      "end": 127245,
+      "title": "Chapter 87: Trial By Witness"
+    },
+    {
+      "id": 115,
+      "start": 127245,
+      "end": 127719,
+      "title": "Chapter 88: Falling Star"
+    },
+    {
+      "id": 116,
+      "start": 127719,
+      "end": 128875,
+      "title": "Chapter 89: Voice of Lights"
+    },
+    {
+      "id": 117,
+      "start": 128875,
+      "end": 130030,
+      "title": "Chapter 90: One Chance"
+    },
+    {
+      "id": 118,
+      "start": 130030,
+      "end": 130497,
+      "title": "Part 5: Outro"
+    },
+    {
+      "id": 119,
+      "start": 130497,
+      "end": 130530,
+      "title": "Part 6: Intro"
+    },
+    {
+      "id": 120,
+      "start": 130530,
+      "end": 131486,
+      "title": "Chapter 91: Worth Saving"
+    },
+    {
+      "id": 121,
+      "start": 131486,
+      "end": 132099,
+      "title": "Chapter 92: A Gift"
+    },
+    {
+      "id": 122,
+      "start": 132099,
+      "end": 133578,
+      "title": "Chapter 93: Strong Enough"
+    },
+    {
+      "id": 123,
+      "start": 133578,
+      "end": 134924,
+      "title": "Chapter 94: Sacrifice"
+    },
+    {
+      "id": 124,
+      "start": 134924,
+      "end": 135538,
+      "title": "Chapter 95: What She Truly Was"
+    },
+    {
+      "id": 125,
+      "start": 135538,
+      "end": 136015,
+      "title": "Chapter 96: A Thousand Lies"
+    },
+    {
+      "id": 126,
+      "start": 136015,
+      "end": 136087,
+      "title": "Navani's Notebook: Experiments"
+    },
+    {
+      "id": 127,
+      "start": 136087,
+      "end": 138054,
+      "title": "Chapter 97: Freedom"
+    },
+    {
+      "id": 128,
+      "start": 138054,
+      "end": 138741,
+      "title": "Interludes: I-10: Hesina"
+    },
+    {
+      "id": 129,
+      "start": 138741,
+      "end": 139189,
+      "title": "Interludes: I-11: Adin"
+    },
+    {
+      "id": 130,
+      "start": 139189,
+      "end": 139742,
+      "title": "Interludes: I-12: Vulnerable"
+    },
+    {
+      "id": 131,
+      "start": 139742,
+      "end": 140376,
+      "title": "Chapter 98: An Unwholesome Shade"
+    },
+    {
+      "id": 132,
+      "start": 140376,
+      "end": 141267,
+      "title": "Chapter 99: Not Bound"
+    },
+    {
+      "id": 133,
+      "start": 141267,
+      "end": 141664,
+      "title": "Chapter 100: Watchers at the Rim"
+    },
+    {
+      "id": 134,
+      "start": 141664,
+      "end": 142668,
+      "title": "Chapter 101: Undertext"
+    },
+    {
+      "id": 135,
+      "start": 142668,
+      "end": 143943,
+      "title": "Chapter 102: Highstorm Coming"
+    },
+    {
+      "id": 136,
+      "start": 143943,
+      "end": 144508,
+      "title": "Chapter 103: The Legend You Live"
+    },
+    {
+      "id": 137,
+      "start": 144508,
+      "end": 145393,
+      "title": "Chapter 104: Full of Hope"
+    },
+    {
+      "id": 138,
+      "start": 145393,
+      "end": 146141,
+      "title": "Chapter 105: Children of Passions"
+    },
+    {
+      "id": 139,
+      "start": 146141,
+      "end": 147099,
+      "title": "Chapter 106: A Hundred Discordant Rhythms"
+    },
+    {
+      "id": 140,
+      "start": 147099,
+      "end": 147769,
+      "title": "Chapter 107: Uniting"
+    },
+    {
+      "id": 141,
+      "start": 147769,
+      "end": 148313,
+      "title": "Chapter 108: Moments"
+    },
+    {
+      "id": 142,
+      "start": 148313,
+      "end": 149159,
+      "title": "Chapter 109: Emulsifier"
+    },
+    {
+      "id": 143,
+      "start": 149159,
+      "end": 150414,
+      "title": "Chapter 110: Reborn"
+    },
+    {
+      "id": 144,
+      "start": 150414,
+      "end": 152495,
+      "title": "Chapter 111: Unchained"
+    },
+    {
+      "id": 145,
+      "start": 152495,
+      "end": 153886,
+      "title": "Chapter 112: Terms"
+    },
+    {
+      "id": 146,
+      "start": 153886,
+      "end": 155015,
+      "title": "Chapter 113: Emotion"
+    },
+    {
+      "id": 147,
+      "start": 155015,
+      "end": 155916,
+      "title": "Chapter 114: Broken Gods"
+    },
+    {
+      "id": 148,
+      "start": 155916,
+      "end": 156873,
+      "title": "Chapter 115: Testament"
+    },
+    {
+      "id": 149,
+      "start": 156873,
+      "end": 157965,
+      "title": "Chapter 116: Mercy"
+    },
+    {
+      "id": 150,
+      "start": 157965,
+      "end": 158618,
+      "title": "Chapter 117: One Final Gift"
+    },
+    {
+      "id": 151,
+      "start": 158618,
+      "end": 159360,
+      "title": "Epilogue: Dirty Tricks"
+    },
+    {
+      "id": 152,
+      "start": 159360,
+      "end": 159639.88,
+      "title": "Part 6: Outro"
+    }
+  ],
+  "title": "Rhythm of War  {GraphicAudio}",
+  "subtitle": "The Stormlight Archive, Book 04",
+  "authors": [
+    "Brandon Sanderson"
+  ],
+  "narrators": [
+    "GraphicAudio"
+  ],
+  "series": [
+    "The Stormlight Archive #4"
+  ],
+  "genres": [
+    "Epic Fantasy",
+    "High Fantasy",
+    "Audiobook"
+  ],
+  "publishedYear": "2021",
+  "publishedDate": null,
+  "publisher": "GraphicAudio",
+  "description": "After forming a coalition of human resistance against the enemy invasion, Dalinar Kholin and his Knights Radiant have spent a year fighting a protracted, brutal war. Neither side has gained an advantage, and the threat of a betrayal by Dalinar's crafty ally Taravangian looms over every strategic move.",
+  "isbn": "9781648816581",
+  "asin": "1648812066",
+  "language": "English",
+  "explicit": false,
+  "abridged": true
+}
